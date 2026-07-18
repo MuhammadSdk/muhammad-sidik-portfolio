@@ -1,36 +1,137 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Muhammad Sidik Latuconsina Portfolio
 
-## Getting Started
+A modern and responsive personal portfolio website built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This portfolio showcases my projects, technical skills, and experience as an aspiring Frontend & Full Stack Developer.
 
-First, run the development server:
+## Live Demo
+
+ https://your-portfolio.vercel.app
+
+## Preview
+
+> Add a screenshot of the homepage here.
+
+![Portfolio Preview](public/images/portfolio-preview.png)
+
+---
+
+## Features
+
+- 🌙 Dark Mode
+- 🌐 Bilingual (English & Indonesian)
+- 📱 Fully Responsive Design
+- ⚡ Smooth Scroll Navigation
+- 🎨 Modern UI Design
+- 📂 Project Showcase
+- 📄 Download CV
+- 📞 Contact Section
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Deployment
+
+- Vercel
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## Featured Projects
+
+### InternHub
+
+Internship Management System built using Next.js, TypeScript, Tailwind CSS, Prisma, and PostgreSQL.
+
+🔗 Live Demo  
+https://internhub-nextjs.vercel.app/
+
+🔗 Repository  
+https://github.com/MuhammadSdk/internhub-nextjs
+
+---
+
+### Website Joglo Dhepis
+
+Company Profile Website developed using Next.js and Tailwind CSS.
+
+🔗 Live Demo  
+https://joglodhepis.vercel.app/
+
+---
+
+## Folder Structure
+
+```text
+app/
+components/
+context/
+data/
+public/
+styles/
+```
+
+---
+
+## Installation
+
+Clone this repository
+
+```bash
+git clone https://github.com/MuhammadSdk/muhammad-sidik-portfolio.git
+```
+
+Go to project folder
+
+```bash
+cd muhammad-sidik-portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Contact
 
-To learn more about Next.js, take a look at the following resources:
+**Muhammad Sidik Latuconsina**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ltcnsnadidi@gmail.com
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+LinkedIn  
+https://www.linkedin.com/in/m-sidik-25aa02275
 
-## Deploy on Vercel
+GitHub  
+https://github.com/MuhammadSdk
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## License
+
+This project is created for personal portfolio purposes.
